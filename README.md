@@ -19,3 +19,9 @@ This project focuses on front-end design and layout with no backend or interacti
 ---
 
 ## 📷 Screenshots
+
+![image](https://github.com/user-attachments/assets/28bf53e3-a5d0-43f7-b802-7db57bc955ce)
+
+![image](https://github.com/user-attachments/assets/257fa166-cee0-4876-adc2-c34ccf952fe3)
+
+
