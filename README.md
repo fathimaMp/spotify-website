@@ -24,4 +24,7 @@ This project focuses on front-end design and layout with no backend or interacti
 
 ![image](https://github.com/user-attachments/assets/257fa166-cee0-4876-adc2-c34ccf952fe3)
 
+![image](https://github.com/user-attachments/assets/0f9679d0-3384-4291-a4c5-c8c17c22eb49)
+
+![image](https://github.com/user-attachments/assets/bd3f7bc3-b05c-4741-b995-659b6714b0cc)
 
