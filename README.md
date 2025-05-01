@@ -1,11 +1,11 @@
-# 🎵 Spotify Landing Page (Static Webpage)
+# Spotify Landing Page (Static Webpage)
 
 This is a **static landing page** inspired by the Spotify homepage, created purely for **educational purposes** using **HTML** and **Tailwind CSS**. 
 This project focuses on front-end design and layout with no backend or interactive functionality.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Responsive and modern UI layout
 - Designed using **Tailwind CSS**
